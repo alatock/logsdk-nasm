@@ -1,0 +1,11 @@
+label. #main
+    assig. r3 '3'
+    assig. r4 '6'
+if. r2 $ '2' #syn
+go. #end
+label. #syn
+out. "r" r3 P5
+    global. "nmm.exe"
+label. #end
+    out. "r" r4 P5
+halt.
