@@ -1,0 +1,6 @@
+
+label. #main
+
+out. "r" r1 P5
+
+global. "return"

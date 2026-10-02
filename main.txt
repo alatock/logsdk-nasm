@@ -5,6 +5,6 @@ ramw. "c" &10 [68, 68, 68, 3]
 
 raml. "r" r1 &10
 
-global. "lib.exe" 
+global. "lib.exe" r1
 
 halt.
